@@ -21,9 +21,8 @@ window.SITE = {
   intro: {
     greeting: "Hi there, I'm",
     paragraphs: [
-      "I'm curious about how things work, and a little stubborn about making them work better. I trained as a mechanical engineer, so I still approach every problem like a machine: open it up, follow the data, and find the part that's grinding.",
-      "These days I do that with business systems. I sit between the people who need something and the people who build it, and turn fuzzy asks into clear requirements, working prototypes and tools that actually ship.",
-      "This space is where I keep what I've built, the problems I'm thinking through in case studies, and what I'm learning along the way."
+      "I'm a Business Systems Analyst who loves turning messy processes into tools people enjoy using. I follow the data, listen to where people get stuck, and translate real needs into clear requirements, working prototypes and products that ship. I'm curious by default, careful with details, and at my best working between business teams and developers.",
+      "This space is where I share what I build, the products I explore in case studies, and what I learn along the way."
     ],
     tags: [
       { label: "Open to roles in Vancouver", highlight: true },
