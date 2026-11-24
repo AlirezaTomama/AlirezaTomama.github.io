@@ -15,3 +15,6 @@ Every window has its own link, e.g. `/#/projects`, `/#/project/backpack`, `/#/ca
 
 ## Deploy
 Push these files to a repo named `AlirezaTomama.github.io` (main branch, root). GitHub Pages serves it at https://alirezatomama.github.io/
+
+## After editing
+Bump the `?v=` number on the three file links in `index.html` (styles.css, content.js, app.js) so visitors' browsers load the new version instead of a cached one.
